@@ -40,3 +40,7 @@ h2, h3 {
 nav a {
     color:rgb(31, 204, 115);
 }
+
+li + li {
+    border-top: 1px solid #f7e600;
+}
